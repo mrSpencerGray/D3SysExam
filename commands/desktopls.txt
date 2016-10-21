@@ -1,7 +1,0 @@
-.
-..
-.DS_Store
-.localized
-ExamGithub
-ExamGithub.zip
-desktopls.txt

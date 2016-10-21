@@ -1,0 +1,8 @@
+/Users/a00989265/Desktop/MyGit/D3SysExam/commands/bottom.txt
+/Users/a00989265/Desktop/MyGit/D3SysExam/commands/desktopls.txt
+/Users/a00989265/Desktop/MyGit/D3SysExam/commands/find.txt
+/Users/a00989265/Desktop/MyGit/D3SysExam/commands/img.txt
+/Users/a00989265/Desktop/MyGit/D3SysExam/commands/top.txt
+/Users/a00989265/htdocs/commands/desktopls.txt
+/Users/a00989265/htdocs/commands/img.txt
+/Users/a00989265/Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
